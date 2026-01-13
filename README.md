@@ -1,5 +1,35 @@
-# Vue 3 + Vite
+## HighTide
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+HighTide Web is a web-based application designed to store, manage, and display a structured list of movies. It helps users keep track of films they have watched as well as those they plan to watch.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Author
+
+GitHub: https://github.com/Tombsand
+LinkedIn: https://www.linkedin.com/in/paulus-steven-lie/
+
+## How to run the web
+
+Follow these steps to install:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <https://github.com/Tombsand/HighTide-Fe.git>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- JavaScript
+- shadcn-ui
+- Tailwind CSS
